@@ -1,0 +1,27 @@
+.main{
+    background-color: #696969;
+    border: 2px solid black;
+    width: 250px;
+    height:300px;
+    padding: 30px;
+    margin: auto ;
+    border-radius: 20px;
+}
+
+.head{
+    text-align: 'center';
+}
+
+button{
+    border: none; /* Remove borders */
+    color: white; /* Add a text color */
+    padding: 10px 20px; /* Add some padding */
+    background-color: black;
+    cursor: pointer; /* Add a pointer cursor on mouse-over */
+    border-radius: 20px;
+  
+}
+
+body{
+    background-color: #DCDCDC;
+}
